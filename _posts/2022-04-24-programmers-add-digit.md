@@ -11,7 +11,7 @@ comments: true
 <br>
 
 
-## Solution (= Better Solution)
+## Solution
 
 ```java
 import java.util.*;

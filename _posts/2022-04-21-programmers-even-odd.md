@@ -35,7 +35,7 @@ class Solution {
 
 <br>
 
-## Better Solution
+## Another Solution
 
 ```java
 public class EvenOrOdd {

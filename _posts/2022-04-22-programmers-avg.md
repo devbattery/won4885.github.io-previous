@@ -38,7 +38,7 @@ class Solution {
 
 <br>
 
-## Library Solution
+## Another Solution
 
 ```java
 import java.util.Arrays;

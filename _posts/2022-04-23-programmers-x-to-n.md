@@ -13,7 +13,7 @@ comments: true
 잘 풀리지 않다가 "X만큼 간격이 있는 n개의 숫자"의 제목에서 ⚽식이 떠오름
 
 
-## Solution (= Better Solution)
+## Solution
 
 ```java
 import java.util.Arrays;

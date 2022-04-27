@@ -41,7 +41,7 @@ class Solution {
 
 <br>
 
-## Better Solution
+## Another Solution
 
 ```java
 class Solution {
