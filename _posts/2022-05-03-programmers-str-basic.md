@@ -8,10 +8,10 @@ comments: true
 
 <https://programmers.co.kr/learn/courses/30/lessons/12918>
 
-### char
+### charAt()
 
 {: .box-note}
-public char charAt​(int index)<br>
+public char charAt​(int index)<br><br>
 Returns the char value at the specified index.<br>
 An index ranges from 0 to length() - 1.<br>
 The first char value of the sequence is at index 0, the next at index 1, and so on, as for array indexing.<br>
