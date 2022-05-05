@@ -22,7 +22,7 @@ charAt in interface CharSequence<br>
 Parameters:<br>
 index - the index of the char value.<br>
 Returns:<br>
-the char value at the specified index of this string. The first char value is at index 0.</r>
+the char value at the specified index of this string. The first char value is at index 0.<br>
 Throws:<br>
 IndexOutOfBoundsException - if the index argument is negative or not less than the length of this string.<br>
 
