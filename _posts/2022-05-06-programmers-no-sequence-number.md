@@ -53,19 +53,29 @@ public class Solution {
 import java.util.*;
 
 public class Solution {
-    public int[] solution(int []arr) {
+    public static int[] solution(int[] arr) {
         ArrayList<Integer> tempList = new ArrayList<Integer>();
-        int preNum = 10;
-        for(int num : arr) {
-            if(preNum != num)
+        int preNum = 10; // arr[i] -> 1 ~ 9
+        for (int num : arr) { // arr -> num
+            if (preNum != num) {
                 tempList.add(num);
-            preNum = num;
-        }       
-        int[] answer = new int[tempList.size()];
-        for(int i=0; i<answer.length; i++) {
-            answer[i] = tempList.get(i).intValue();
+            }
+            preNum = num; // num -> preNum
         }
+
+        int[] answer = new int[tempList.size()];
+        for (int i = 0; i < answer.length; i++) {
+            answer[i] = tempList.get(i);
+        }
+
         return answer;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(Arrays.toString(solution(new int[]{1, 1, 3, 3, 0, 1, 1})));
+        System.out.println(Arrays.toString(solution(new int[]{4, 4, 4, 3, 3})));
+        System.out.println(Arrays.toString(solution(new int[]{4, 4, 4, 3, 2, 1})));
+
     }
 }
 ```
