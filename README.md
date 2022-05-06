@@ -1,1 +1,1 @@
-### Algorithms Blog ⚽
+### Algorithms Blog 💻
