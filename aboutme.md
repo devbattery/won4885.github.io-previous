@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Trying to be a backend developer 🐎
+subtitle: To Become a Backend Developer 🧑🏻‍💻
 ---
 
 <!-- My name is Wonjun Jeong. I have the following qualities:
