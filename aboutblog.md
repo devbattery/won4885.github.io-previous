@@ -4,12 +4,17 @@ title: About Blog
 subtitle: Solve Algorithms 💻
 ---
 
-
-### <div style="text-align: center"> [LeetCode](https://leetcode.com/) & [Programmers](https://programmers.co.kr/) & [HackerRank](https://www.hackerrank.com/) </div>
-<div style="text-align: center">You can search solutions by **keywords** using magnifier icon 🔍<br>
-ex) LeetCode, Programmers, HackerRank etc.<br>
+<div style = "text-align: center">
+<div style = "font-weight: bold; font-size: 1.5em">
+<a href="https://leetcode.com/">LeetCode</a> & 
+<a href="https://programmers.co.kr/">Programmers</a> & 
+<a href="https://www.hackerrank.com/">HackerRank</a>
+</div>
+<br>
+You can search solutions by keywords using magnifier icon 🔍<br>
 
 <HR>
  
-Also, you can click [Tags Button](https://won4885.github.io/tags) on each post to access the Index 📄
+Also, you can click <a href="https://won4885.github.io/tags">Tags Button</a> on each post to access the Index 📄
+
 </div>
