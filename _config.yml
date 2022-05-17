@@ -21,7 +21,7 @@ navbar-links:
   About Blog: "aboutblog"
   About Me: "aboutme"
   Github: "https://github.com/won4885"
-  Velog: "https://velog.io/@won4885"
+  LeetCode: "https://leetcode.com/won4885/"
 
 # --- Logo --- #
 
@@ -45,7 +45,7 @@ social-network-links:
   email: "2dcoder@naver.com"
   github: won4885
 #  medium: yourname
-# reddit: won4885
+#  reddit: won4885
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -66,7 +66,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: For Algorithms
 
 # --- General options --- #
 
