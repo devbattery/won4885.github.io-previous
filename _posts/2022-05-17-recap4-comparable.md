@@ -8,8 +8,6 @@ comments: true
 
 **오버라이드**
 
-<br>
-
 ```java
 String one = "hello world";
 String two = "hello world";
