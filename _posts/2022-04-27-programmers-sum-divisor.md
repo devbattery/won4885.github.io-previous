@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 약수의 합
+title: "[Java] Programmers 약수의 합"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

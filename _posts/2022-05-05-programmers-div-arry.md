@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 나누어 떨어지는 숫자 배열
+title: "[Java] Programmers 나누어 떨어지는 숫자 배열"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

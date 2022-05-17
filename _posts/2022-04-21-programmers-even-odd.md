@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 짝수와 홀수
+title: "[Java] Programmers 짝수와 홀수"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

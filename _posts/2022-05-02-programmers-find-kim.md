@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 서울에서 김서방 찾기
+title: "[Java] Programmers 서울에서 김서방 찾기"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 시저 암호
+title: "[Java] Programmers 시저 암호"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

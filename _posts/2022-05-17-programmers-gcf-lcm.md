@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 최대공약수와 최소공배수
+title: "[Java] Programmers 최대공약수와 최소공배수"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

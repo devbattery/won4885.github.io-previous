@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 핸드폰 번호 가리기
+title: "[Java] Programmers 핸드폰 번호 가리기"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

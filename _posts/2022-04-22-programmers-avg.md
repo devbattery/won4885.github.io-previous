@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 평균 구하기
+title: "[Java] Programmers 평균 구하기"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

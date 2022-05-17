@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 수박수박수박수박수박수?
+title: "[Java] Programmers 수박수박수박수박수박수?"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 문자열 다루기 기본
+title: "[Java] Programmers 문자열 다루기 기본"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

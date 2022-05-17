@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 같은 숫자는 싫어
+title: "[Java] Programmers 같은 숫자는 싫어"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

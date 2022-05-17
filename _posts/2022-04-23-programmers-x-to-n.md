@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers x만큼 간격이 있는 n개의 숫자
+title: "[Java] Programmers x만큼 간격이 있는 n개의 숫자"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

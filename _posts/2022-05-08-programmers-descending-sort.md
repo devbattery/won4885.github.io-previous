@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 문자열 내림차순으로 배치하기
+title: "[Java] Programmers 문자열 내림차순으로 배치하기"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

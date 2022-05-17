@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 자연수 뒤집어 배열로 만들기
+title: "[Java] Programmers 자연수 뒤집어 배열로 만들기"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

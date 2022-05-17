@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 문자열을 정수로 바꾸기
+title: "[Java] Programmers 문자열을 정수로 바꾸기"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

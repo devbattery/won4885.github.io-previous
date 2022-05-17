@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 행렬의 덧셈
+title: "[Java] Programmers 행렬의 덧셈"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

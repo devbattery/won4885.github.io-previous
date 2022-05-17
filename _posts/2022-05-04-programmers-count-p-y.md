@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 문자열 내 p와 y의 개수
+title: "[Java] Programmers 문자열 내 p와 y의 개수"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

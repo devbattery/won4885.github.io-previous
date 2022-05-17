@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 제일 작은 수 제거하기
+title: "[Java] Programmers 제일 작은 수 제거하기"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

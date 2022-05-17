@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 직사각형 별찍기
+title: "[Java] Programmers 직사각형 별찍기"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

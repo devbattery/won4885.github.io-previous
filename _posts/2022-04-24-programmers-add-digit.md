@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 자릿수 더하기
+title: "[Java] Programmers 자릿수 더하기"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

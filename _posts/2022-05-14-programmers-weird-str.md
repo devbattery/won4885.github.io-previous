@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 이상한 문자 만들기
+title: "[Java] Programmers 이상한 문자 만들기"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

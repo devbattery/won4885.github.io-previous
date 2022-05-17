@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 콜라츠 추측
+title: "[Java] Programmers 콜라츠 추측"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

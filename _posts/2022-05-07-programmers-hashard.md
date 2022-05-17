@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 하샤드 수
+title: "[Java] Programmers 하샤드 수"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true

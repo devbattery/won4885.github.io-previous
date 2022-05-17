@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers 정수 제곱근 판별
+title: "[Java] Programmers 정수 제곱근 판별"
 tags: [algorithms, java, programmers]
 gh-repo: daattali/beautiful-jekyll
 comments: true
