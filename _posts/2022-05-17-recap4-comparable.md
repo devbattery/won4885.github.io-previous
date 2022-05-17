@@ -6,7 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 comments: true
 ---
 
-**Override**
+**오버라이드**
 
 <br>
 
