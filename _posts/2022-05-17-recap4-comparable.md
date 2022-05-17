@@ -44,3 +44,7 @@ if(((Comparable<T>) data).compareTo(obj)==0)
 ```
 
 위와 같이 Comparable 인터페이스를 만들면 자료형에 알맞은 데이터가 들어와 compareTo 함수를 통해 같은 자료형의 데이터를 비교할 수 있습니다.
+
+<br>
+
+[**Source**](https://www.boostcourse.org/cs204/joinLectures/145114)
