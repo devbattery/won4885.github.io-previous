@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "[Java 자료구조] 자바 특성 및 알고리즘 기본"
-tags: [algorithms]
+title: "[자료구조] Time Complexity (시간 복잡도)"
+tags: [time_complexity, recap]
 gh-repo: daattali/beautiful-jekyll
 comments: true
 ---
