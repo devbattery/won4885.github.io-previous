@@ -7,7 +7,7 @@ comments: true
 ---
 
 **Override**
- 
+<br>
 ```java
 String one = "hello world";
 String two = "hello world";
@@ -31,7 +31,7 @@ if(one.equals(two))
 
 이처럼, 객체 클래스의 equals는 메모리 주소를 비교하지만, 문자열 클래스의 equals를 오버라이드하면 메모리 주소 대신 문자열을 비교하게 만들 수 있습니다.
 
- 
+<br>
 
 **Comparable 인터페이스**
 
