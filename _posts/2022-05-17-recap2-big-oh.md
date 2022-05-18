@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[자료구조] Big-Oh notation (빅 오 표기법)"
-tags: [complexity, recap]
+tags: [datastructures, recap]
 gh-repo: daattali/beautiful-jekyll
 comments: true
 ---

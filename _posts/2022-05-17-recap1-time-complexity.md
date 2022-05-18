@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[자료구조] Time Complexity (시간 복잡도)"
-tags: [complexity, recap]
+tags: [datastructures, recap]
 gh-repo: daattali/beautiful-jekyll
 comments: true
 ---
