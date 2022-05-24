@@ -19,7 +19,6 @@ future: true
 
 navbar-links:
   About Blog: "aboutblog"
-  About Me: "aboutme"
   Github: "https://github.com/won4885"
   LeetCode: "https://leetcode.com/won4885/"
   HackerRank: "https://www.hackerrank.com/2dcoder1?hr_r=1"
