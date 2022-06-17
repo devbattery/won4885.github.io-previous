@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Java] HackerRank Java ArrayList"
+title: "[Java] HackerRank Java Exception Handling (Try-catch)"
 tags: [algorithms, java, hackerrank]
 gh-repo: daattali/beautiful-jekyll
 comments: true
