@@ -11,10 +11,10 @@ subtitle: Solve Algorithms 💻
 <a href="https://www.hackerrank.com/">HackerRank</a>
 </div>
 <br>
-You can search solutions by keywords using magnifier icon 🔍<br>
+You can search solutions by keywords using the magnifier icon 🔍<br>
 
 <HR>
  
-Also, you can click <a href="https://won4885.github.io/tags">Tags Button</a> on each post to access the Index 📄
+You can also click the <a href="https://won4885.github.io/tags">Tags Button</a> on each post to access the Index 📄
 
 </div>
