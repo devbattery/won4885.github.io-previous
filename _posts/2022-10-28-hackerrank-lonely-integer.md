@@ -24,7 +24,7 @@ class Result {
         int res = 0;
         for (Integer integer : a) {
             arr[integer]++;
-        }
+        } 
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] % 2 != 0) {
                 res = i;
