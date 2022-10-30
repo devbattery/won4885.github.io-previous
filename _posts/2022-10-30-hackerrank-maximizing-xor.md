@@ -16,7 +16,6 @@ comments: true
 import java.io.*;
 
 class Result {
-
     static int maximizingXor(int l, int r) {
         int mx = 0;
         for (int i = l; i < r; i++) {
@@ -26,7 +25,6 @@ class Result {
         }
         return mx;
     }
-
 }
 
 public class Solution {
