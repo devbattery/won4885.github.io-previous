@@ -17,7 +17,7 @@ import java.io.*;
 
 class Result {
     static int makingAnagrams(String s1, String s2) {
-        int count = 0;
+        int count = 0; 
         int[] alpha = new int[26];
         for (int i = 0; i < s1.length(); i++) {
             alpha[s1.charAt(i) - 'a']++;

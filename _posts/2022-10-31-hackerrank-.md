@@ -16,7 +16,7 @@ comments: true
 import java.io.*;
 
 class Result {
-    static int beautifulBinaryString(String b) { 
+    static int beautifulBinaryString(String b) {
         int answer = 0;
         char[] chars = b.toCharArray();
         for (int i = 0; i < chars.length - 2; i++) {
