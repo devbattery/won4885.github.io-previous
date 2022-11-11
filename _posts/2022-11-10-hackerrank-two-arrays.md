@@ -26,7 +26,7 @@ class Result {
             if (A.get(i) + B.get(i) < k) {
                 return "NO";
             }
-        }
+        } 
         return "YES";
     }
 }
