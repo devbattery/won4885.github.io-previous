@@ -18,7 +18,7 @@ import java.util.*;
 import java.util.stream.*;
 import static java.util.stream.Collectors.toList;
 
-class Result {
+class Result { 
     static int luckBalance(int k, List<List<Integer>> contests) {
         int answer = 0;
         List<Integer> list = new ArrayList<>();
