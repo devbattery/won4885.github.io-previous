@@ -4,8 +4,9 @@ title: About Blog
 subtitle: Solve Algorithms 💻
 ---
 
-<!--
+
 <div style = "text-align: center">
+<!--
 <div style = "font-weight: bold; font-size: 1.5em">
 <a href="https://leetcode.com/">LeetCode</a> & 
 <a href="https://programmers.co.kr/">Programmers</a> & 
