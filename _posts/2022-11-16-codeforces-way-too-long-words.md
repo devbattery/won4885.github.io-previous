@@ -20,7 +20,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Solution {
-    static List<String> solution(List<String> input) {
+    static List<String> solution(List<String> input) { 
         List<String> answer = new ArrayList<>();
         for (String s : input) {
             if (s.length() <= 10) {
