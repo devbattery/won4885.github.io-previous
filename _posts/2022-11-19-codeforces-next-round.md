@@ -19,7 +19,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
-
+ 
 public class Solution {
     public static int solution(int n, int k, List<Integer> input) {
         int count = 0;
