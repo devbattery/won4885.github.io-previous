@@ -21,7 +21,7 @@ import java.util.StringTokenizer;
 public class Solution {
     public static int solution(int m, int n) {
         return (m * n) / 2;
-    }
+    } 
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
