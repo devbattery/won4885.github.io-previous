@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Java] Codeforces Theatre Square"
+title: "[Java] Codeforces 1A. Theatre Square"
 tags: [algorithms, java, codeforces]
 gh-repo: daattali/beautiful-jekyll
 comments: true
