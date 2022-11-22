@@ -25,7 +25,7 @@ public class Solution {
             for (int j = 0; j < 5; j++) {
                 if (input[i][j] == 1) {
                     min = Math.abs(i - 2) + Math.abs(j - 2);
-                }
+                } 
             }
         }
         return min;
