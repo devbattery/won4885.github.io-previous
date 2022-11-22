@@ -8,10 +8,10 @@
 url: "https://won4885.github.io"
 
 # Name of website
-title: Jay's Blog
+title: Jun's Blog
 
 # Your name to show in the footer
-author: Jay
+author: Jun
 
 future: true
 
@@ -79,7 +79,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Jay's PS Blog"
+url-pretty: "Jun's PS Blog"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
