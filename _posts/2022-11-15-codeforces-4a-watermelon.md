@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Java] Codeforces 4A. Watermelon"
+title: "[Java] Codeforces 4A - Watermelon"
 tags: [algorithms, java, codeforces]
 gh-repo: daattali/beautiful-jekyll
 comments: true

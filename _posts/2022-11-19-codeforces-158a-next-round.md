@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Java] Codeforces 158A. Next Round"
+title: "[Java] Codeforces 158A - Next Round"
 tags: [algorithms, java, codeforces]
 gh-repo: daattali/beautiful-jekyll
 comments: true

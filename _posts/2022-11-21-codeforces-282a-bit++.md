@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Java] Codeforces 282A. Bit++"
+title: "[Java] Codeforces 282A - Bit++"
 tags: [algorithms, java, codeforces]
 gh-repo: daattali/beautiful-jekyll
 comments: true
@@ -14,7 +14,7 @@ comments: true
 
 ```java
 import java.io.BufferedReader;
-import java.io.IOException;
+import java.io.IOException; 
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;

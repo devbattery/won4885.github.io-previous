@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Java] Codeforces 231A. Team"
+title: "[Java] Codeforces 231A - Team"
 tags: [algorithms, java, codeforces]
 gh-repo: daattali/beautiful-jekyll
 comments: true

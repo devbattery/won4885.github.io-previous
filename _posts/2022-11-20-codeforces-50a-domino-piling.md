@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Java] Codeforces 50A. Domino piling"
+title: "[Java] Codeforces 50A - Domino piling"
 tags: [algorithms, java, codeforces]
 gh-repo: daattali/beautiful-jekyll
 comments: true

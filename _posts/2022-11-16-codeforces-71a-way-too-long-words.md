@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Java] Codeforces 71A. Way Too Long Words"
+title: "[Java] Codeforces 71A - Way Too Long Words"
 tags: [algorithms, java, codeforces]
 gh-repo: daattali/beautiful-jekyll
 comments: true
