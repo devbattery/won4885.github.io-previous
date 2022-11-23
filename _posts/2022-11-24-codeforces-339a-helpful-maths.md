@@ -40,7 +40,7 @@ public class Solution {
         return answer.toString();
     }
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException { 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String input = br.readLine();
         System.out.print(sortSum(input));
