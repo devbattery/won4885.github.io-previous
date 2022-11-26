@@ -25,7 +25,7 @@ public class Solution {
         for (int i = 0; i < input.length(); i++) {
             if (input.indexOf(input.charAt(i)) == i) {
                 tmp += input.charAt(i);
-            }
+            } 
         }
         return (tmp.length() % 2 == 0) ? "CHAT WITH HER!" : "IGNORE HIM!";
     }
